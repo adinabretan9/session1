@@ -1,2 +1,2 @@
 # session1
-Training
+Training_Python
